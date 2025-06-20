@@ -1,7 +1,7 @@
 
 # Variables in Python
 
-first_name = 'Ayoub'
+first_name = 'ahmed'
 last_name = 'Hamadouche'
 country = 'Algeria'
 city = 'setif'
